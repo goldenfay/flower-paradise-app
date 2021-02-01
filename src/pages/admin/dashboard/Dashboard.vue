@@ -8,7 +8,7 @@
         <div class="bg-light d-flex justify-content-center align-items-center">
           <div class="card">
             <div class="card-body d-flex flex-column">
-              <h4 class="text-muted">Titre</h4>
+              <h4 class="text-muted">Title</h4>
               <h3>Value</h3>
             </div>
           </div>
